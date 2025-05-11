@@ -1,0 +1,10 @@
+.nav-link.text-white:hover {
+  color: #ffc107 !important; /* Amarillo tipo Bootstrap warning */
+  text-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
+  transition: all 0.3s ease-in-out;
+}
+
+
+.banner {
+ 
+}
