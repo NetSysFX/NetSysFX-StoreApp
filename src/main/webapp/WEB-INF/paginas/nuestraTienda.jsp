@@ -19,7 +19,8 @@
         <div class="col-md-4 mb-4">
             <div class="card shadow-sm border-info">
                 <div class="card-body text-center">
-                    <i class="bi bi-person-badge display-4 text-info"></i>
+                    <!-- Imagen personalizada del fundador -->
+                    <img src="img/felipe.png" alt="Fundador NetSysFX" class="rounded-circle shadow mb-3" width="100" height="100">
                     <h5 class="card-title mt-3">Andrés Felipe Paniagua Villada</h5>
                     <p class="card-text text-muted">Fundador y CEO de NetSysFX</p>
                 </div>
