@@ -1,4 +1,4 @@
-<header class="bg-dark text-white pb-0">
+<header class="encabezado-con-fondo text-white">
   <div class="container d-flex align-items-center justify-content-between py-3">
     <!-- Logo + nombre -->
     <div class="d-flex align-items-center">
@@ -9,6 +9,4 @@
       </div>
     </div>
   </div>
-
-
 </header>

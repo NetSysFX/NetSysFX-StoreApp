@@ -5,6 +5,12 @@
 }
 
 
-.banner {
- 
+.encabezado-con-fondo {
+    background-image: url('../img/fondo-encabezado.png'); /* Cambia la ruta y nombre si es necesario */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 4px solid #0dcaf0; /* línea decorativa opcional */
 }
