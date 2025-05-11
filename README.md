@@ -22,7 +22,7 @@ Sitio web académico desarrollado en Java utilizando JSP, Servlets y Bootstrap 5
 
 ## Captura de pantalla
 
-![NetSysFX - Cotización recibida](./img/cotizacion_final.png)
+![NetSysFX - Cotización recibida](.src/main/webapp/img/cotizacion_final.png)
 
 ## Autor
 
