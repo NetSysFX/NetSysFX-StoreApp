@@ -1,5 +1,3 @@
-
-
 <!-- NAVBAR -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-info">
     <div class="container">
