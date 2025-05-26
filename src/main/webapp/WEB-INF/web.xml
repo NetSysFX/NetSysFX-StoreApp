@@ -19,6 +19,17 @@
         <url-pattern>/CotizacionServlet</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>CuentoServlet</servlet-name>
+        <servlet-class>web.CuentoServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>CuentoServlet</servlet-name>
+        <url-pattern>/CuentoServlet</url-pattern>
+    </servlet-mapping>
+
+
     
     
 </web-app>
