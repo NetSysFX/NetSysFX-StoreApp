@@ -12,11 +12,7 @@
         <li class="nav-item"><a class="nav-link text-white fw-bold" href="index.jsp?pagina=contacto">Contáctenos</a></li>
         <li class="nav-item"><a class="nav-link text-white fw-bold" href="index.jsp?pagina=cotizacion">Cotización</a></li>
         <!-- Nuevo enlace para el cuento personalizado -->
-        <li class="nav-item">
-          <a class="nav-link text-white fw-bold" href="index.jsp?pagina=disenaTuCuento">
-            <i class="bi bi-book-half"></i> Cuento Personalizado
-          </a>
-        </li>
+        <li class="nav-item"><a class="nav-link text-white fw-bold" href="index.jsp?pagina=disenaTuCuento">Cuento Personalizado</a></li>
       </ul>
     </div>
   </div>
