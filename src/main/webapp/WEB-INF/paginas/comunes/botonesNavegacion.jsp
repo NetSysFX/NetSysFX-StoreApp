@@ -10,7 +10,7 @@
         <li class="nav-item"><a class="nav-link text-white fw-bold" href="index.jsp?pagina=nuestraTienda">Nuestra Tienda</a></li>
         <li class="nav-item"><a class="nav-link text-white fw-bold" href="index.jsp?pagina=servicios">Servicios</a></li>
         <li class="nav-item"><a class="nav-link text-white fw-bold" href="index.jsp?pagina=contacto">Contáctenos</a></li>
-        <li class="nav-item"><a class="nav-link text-white fw-bold" href="index.jsp?pagina=cotizacion">Cotización</a></li>
+        <li class="nav-item"><a class="nav-link text-white fw-bold" href="index.jsp?pagina=solicitudCotizacion">Cotización</a></li>
         <!-- Nuevo enlace para el cuento personalizado -->
         <li class="nav-item"><a class="nav-link text-white fw-bold" href="index.jsp?pagina=disenaTuCuento">Cuento Personalizado</a></li>
       </ul>
