@@ -17,7 +17,7 @@ public class CuentoServlet extends HttpServlet {
     String hobby = request.getParameter("hobby");
     
     
-String cuento = "En una ciudad no muy lejana vivía <strong>" + nombre + "</strong>, aunque todos lo conocían como <strong>\"" + apodo + "\"</strong>. "
+String cuento = "En una ciudad muy lejana vivía <strong>" + nombre + "</strong>, aunque todos lo conocían como <strong>\"" + apodo + "\"</strong>. "
     + "<strong>" + apodo + "</strong> era una persona curiosa, con el cabello <strong>" + cabello + "</strong> que brillaba bajo el sol y unos ojos <strong>" + ojos + "</strong> "
     + "que reflejaban la pasión por descubrir el mundo. A sus <strong>" + edad + "</strong> años, su pasatiempo favorito era <strong>" + hobby + "</strong>, "
     + "una actividad que le daba paz, inspiración y propósito.<br><br>"
