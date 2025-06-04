@@ -1,10 +1,10 @@
-# 🛍️ NetSysFX – Tienda Web JSP
+# NetSysFX – Tienda Web JSP
 
 Sitio web académico desarrollado en Java utilizando JSP, Servlets y Bootstrap 5, con arquitectura MVC. Simula una tienda online de tecnología con flujo completo de cotización.
 
 ---
 
-## 🚀 Tecnologías usadas
+## Tecnologías usadas
 
 - Java 17
 - JSP + Servlets
@@ -15,7 +15,7 @@ Sitio web académico desarrollado en Java utilizando JSP, Servlets y Bootstrap 5
 
 ---
 
-## 🧠 Arquitectura
+## Arquitectura
 
 - Patrón MVC (Modelo Vista Controlador)
 - DAO (Acceso a Datos separado para escalabilidad)
@@ -24,12 +24,12 @@ Sitio web académico desarrollado en Java utilizando JSP, Servlets y Bootstrap 5
 
 ---
 
-## 🔧 Funcionalidades
+## Funcionalidades
 
 - Página principal con header, banner y branding de NetSysFX
 - Sección **Nuestra Tienda** con presentación del CEO
 - Sección **Cuento Personalizado** generado a partir de un formulario dinámico
-- ✅ **Nueva sección:** **Solicitud de Cotización**
+- **Nueva sección:** **Solicitud de Cotización**
   - Formulario con campos obligatorios: Nombre, Ciudad, Dirección, Celular
   - Selección de productos por checkbox + cantidad
   - Al enviar:
@@ -39,7 +39,7 @@ Sitio web académico desarrollado en Java utilizando JSP, Servlets y Bootstrap 5
 
 ---
 
-## 📦 Base de Datos
+## Base de Datos
 
 ### Tablas usadas:
 
@@ -48,13 +48,13 @@ Sitio web académico desarrollado en Java utilizando JSP, Servlets y Bootstrap 5
 
 ---
 
-## 🎯 Captura de resumen
+## Captura de resumen
 
 ![Resumen Cotización](./src/main/webapp/img/resumenCotizacion_final.png)
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Andrés Felipe Paniagua Villada**  
 Fundador y CEO de [NetSysFX](https://netsysfx.com)  
