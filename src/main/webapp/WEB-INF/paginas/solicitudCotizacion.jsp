@@ -3,6 +3,7 @@
   <h2 class="mb-4 text-primary">Solicitud de Cotización</h2>
 
   <form action="CotizacionServlet" method="post">
+      
     <!-- Datos personales -->
     <div class="row mb-3">
       <div class="col-md-6">

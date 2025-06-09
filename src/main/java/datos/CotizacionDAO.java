@@ -76,7 +76,7 @@ public class CotizacionDAO {
         }
     }
 
-// Obtener productos por la última solicitud (atajo)
+// Obtener productos por la última solicitud 
     public static List<ProductoSolicitado> obtenerProductosUltimaSolicitud() throws Exception {
         Solicitud ultima = obtenerUltimaSolicitud();
         return obtenerProductosPorSolicitud(ultima.getId());
